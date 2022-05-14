@@ -1,0 +1,1 @@
+#### This is a project for geekbrans.ru course "Getting ready to an interview as a Python developer"
